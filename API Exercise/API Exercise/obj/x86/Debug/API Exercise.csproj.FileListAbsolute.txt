@@ -1,0 +1,6 @@
+C:\Users\Riikonen\Kurssit\TIES456\API Exercise\API Exercise\bin\Debug\API Exercise.exe
+C:\Users\Riikonen\Kurssit\TIES456\API Exercise\API Exercise\bin\Debug\API Exercise.pdb
+C:\Users\Riikonen\Kurssit\TIES456\API Exercise\API Exercise\obj\x86\Debug\API Exercise.exe
+C:\Users\Riikonen\Kurssit\TIES456\API Exercise\API Exercise\obj\x86\Debug\API Exercise.pdb
+C:\Users\Riikonen\Kurssit\TIES456\API Exercise\API Exercise\bin\Debug\API Exercise.exe.config
+C:\Users\Riikonen\Kurssit\TIES456\API Exercise\API Exercise\obj\x86\Debug\API Exercise.csprojResolveAssemblyReference.cache
